@@ -1,7 +1,6 @@
 package com.gaurav.anshul;
 
 public class StudentReport {
-    //
     String studentName;
     float studentMarks1;
     float studentMarks2;
