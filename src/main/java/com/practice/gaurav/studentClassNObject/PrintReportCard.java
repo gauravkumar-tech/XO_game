@@ -1,4 +1,4 @@
-package com.gaurav.gaurav.studentClassNObject;
+package com.practice.gaurav.studentClassNObject;
 
 public class PrintReportCard {
     public static void main(String[]args){

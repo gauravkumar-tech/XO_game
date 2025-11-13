@@ -1,4 +1,4 @@
-package com.gaurav;
+package com.practice;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

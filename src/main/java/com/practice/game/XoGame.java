@@ -1,4 +1,4 @@
-package com.gaurav.game;
+package com.practice.game;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.gaurav;
+package com.practice;
 
 /**
  * Hello world!

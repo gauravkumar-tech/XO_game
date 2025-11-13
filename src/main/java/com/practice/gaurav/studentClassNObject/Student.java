@@ -1,4 +1,4 @@
-package com.gaurav.gaurav.studentClassNObject;
+package com.practice.gaurav.studentClassNObject;
 
 public class Student {
     static String instituteName;

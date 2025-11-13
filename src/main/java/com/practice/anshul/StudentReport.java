@@ -1,4 +1,4 @@
-package com.gaurav.anshul;
+package com.practice.anshul;
 
 public class StudentReport {
     String studentName;

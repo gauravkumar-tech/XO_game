@@ -1,4 +1,4 @@
-package com.gaurav.anshul;
+package com.practice.anshul;
 
 import java.util.Scanner;
 
